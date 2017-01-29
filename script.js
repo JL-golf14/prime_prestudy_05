@@ -1,7 +1,7 @@
 var avengersMovie = {
-    name : "Avengers",
-    runtime : "143 mins",
-    releaseYear : 2012,
-    director : "Joss Whedon",
+    name: "Avengers",
+    runTime: "143 mins",
+    releaseYear: 2012,
+    director: "Joss Whedon",
 };
-console.log(avengersMovie[name,runtime,releaseYear,director]);
+console.log(avengersMovie[name,runTime,releaseYear,director]);
